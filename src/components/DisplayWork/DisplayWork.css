@@ -1,0 +1,33 @@
+/* * {
+    outline: 1px dotted red;
+} */
+#display {
+    width: 450px;
+    margin: auto;
+}
+.worktype {
+    height: auto;
+    width: 250px;
+    border: 2px solid black;
+    display: inline-block;
+}
+.projectTitle {
+    outline: 1px dotted red;
+    width: 80px;
+    display: inline-block;
+    margin-right: 65px;
+    margin-left: 10px;
+}
+
+.time{
+    width: 75px;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.descript {
+    width: 150px;
+    display: inline-block;
+    color: red;
+
+}
