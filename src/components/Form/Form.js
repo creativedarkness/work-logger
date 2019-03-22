@@ -11,7 +11,6 @@ class WorkLogger extends Component {
             vaildDescript: false,
             vaildMinutes: false,
             minutesBlank: false,
-            // canSubmit: false,
         }
     }
 

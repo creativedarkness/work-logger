@@ -2,7 +2,7 @@
     outline: 1px dotted red;
 } */
 #display {
-    width: 450px;
+    width: 625px;
     margin: auto;
 }
 .worktype {
@@ -10,9 +10,10 @@
     width: 250px;
     border: 2px solid black;
     display: inline-block;
+    margin: 25px;
+    vertical-align: top;
 }
 .projectTitle {
-    outline: 1px dotted red;
     width: 80px;
     display: inline-block;
     margin-right: 65px;
@@ -22,12 +23,12 @@
 .time{
     width: 75px;
     display: inline-block;
-    margin-left: 5px;
+    margin: 0;
 }
 
 .descript {
     width: 150px;
     display: inline-block;
     color: red;
-
+    margin: 0;
 }
